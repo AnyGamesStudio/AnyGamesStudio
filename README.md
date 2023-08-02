@@ -1,7 +1,7 @@
 - 👋 Hello World, I’m @AnyGamesStudio
-- 👀 I’m interested in Game development / Unity
-- 🌱 I’m currently learning Development with Unity
+- 😉 I program games with Unity
 - 📫 How to reach me Discord: coolcat77777
+- 😎 My games : anygames.itch.io
 
 <!---
 AnyGamesStudio/AnyGamesStudio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
